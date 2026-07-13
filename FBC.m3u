@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,FBC TV
+#EXTINF:-1 group-title="Fiji",FBC TV
 https://cdn3.wowza.com/1/d08ySTRSSGhURUYw/STFtcVdv/hls/rwj4jdvz/1080/chunklist.m3u8
 
-#EXTINF:-1,FBC SPORTS
+#EXTINF:-1 group-title="Fiji Sports",FBC SPORTS
 https://cdn3.wowza.com/1/OVlHbCtERUloYXM5/ZTBhMHZW/hls/gt4ltljv/1080/chunklist.m3u8
 
-#EXTINF:-1,FBC 2
+#EXTINF:-1 group-title="Fiji",FBC 2
 https://cdn3.wowza.com/1/QkE5OU56ZlBpbE8z/ZEtXVVJS/hls/jhqvf6fc/1080/chunklist.m3u8
