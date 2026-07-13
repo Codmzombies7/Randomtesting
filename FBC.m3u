@@ -4,7 +4,7 @@
 https://cdn3.wowza.com/1/d08ySTRSSGhURUYw/STFtcVdv/hls/rwj4jdvz/1080/chunklist.m3u8
 
 #EXTINF:-1 group-title="Fiji Sports",FBC SPORTS
-https://cdn3.wowza.com/1/OVlHbCtERUloYXM5/ZTBhMHZW/hls/gt4ltljv/1080/chunklist.m3u8
+https://cdn3.wowza.com/1/OVlHbCtERUloYXM5/ZTBhMHZW/hls/live/playlist.m3u8?hdnts=st=1783972484~exp=1783974284~hmac=b357d95aef18830357c17d8da2afce8d84ede18edf2caad0b795c39b03f869f0
 
 #EXTINF:-1 group-title="Fiji",FBC 2
 https://cdn3.wowza.com/1/QkE5OU56ZlBpbE8z/ZEtXVVJS/hls/jhqvf6fc/1080/chunklist.m3u8
